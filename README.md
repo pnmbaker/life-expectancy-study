@@ -1,14 +1,8 @@
-# Study on Life Expectancy and Possible Contributing Factors
+# Study on Gender Differences in Life Expectancy: Impact of Health Expenditure, Doctor Consultations, and Physician Density
 
 ## Introduction
 Life expectancy is an essential indicator of population health, providing insights into country trends and opportunities for improvement. Numerous studies have explored the factors influencing life expectancy and health outcomes. Past research has examined the cost implications of healthcare, such as the RAND Corporation's studies, and how different countries have successfully improved life expectancies. In this study, we aim to delve deeper into the various factors influencing life expectancy and identify areas where improvements can enhance global health outcomes.
 
-## Data Description
-The dataset used for this analysis is derived from the Organization for Economic Cooperation and Development (OECD) Health Statistics 2022. It includes comprehensive information on life expectancy, GDP, health expenditure, education levels, and other relevant factors across OECD countries and beyond.
-
-# Study on Gender Differences in Life Expectancy: Impact of Health Expenditure, Doctor Consultations, and Physician Density
-
-## Introduction
 My Research Question: Do health expenditure per capita, the number of doctor consultations per capita, and total number of physicians per capita impact gender differences in life expectancy across countries over 5 years?
 
 My research question aims to understand the dynamics influencing the differences in life expectancy between females and males across various countries over a span of five years. The question focuses on discerning how certain factors might contribute to these discrepancies. These factors include health expenditure per capita, which reflects the amount of money a country invests in healthcare for each individual. Additionally, the number of doctor consultations per capita is examined, which sheds light on the frequency with which people seek medical attention on average. Furthermore, the research question considers physician density, a categorical representation indicating whether a country possesses a low, medium, or high density of doctors per capita. This variable plays an important role in understanding the availability of healthcare professionals within a given population. Alongside these variables, the analysis includes time as a categorical variable, dividing the data into five years from 2015 to 2019. With a sample size of 165, the research question aims to investigate the impact of health expenditure, doctor consultations, physician density, and the passage of time on gender disparities in life expectancy.
